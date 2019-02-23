@@ -7,7 +7,7 @@ class Routers extends React.Component {
     render(){
         return(
             <Switch>
-                <Route exact path="/" component={Homepage} />
+                <Route exact path="/emerging-tech/" component={Homepage} />
                 <Route path="/assignment/lesson1" component={Lesson1} />
             </Switch>
             

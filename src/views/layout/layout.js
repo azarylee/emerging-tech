@@ -33,7 +33,7 @@ class Layout extends React.Component {
                     YIJUN's HOME
                 </Menu.Item>
                 <Menu.Item key="home" className="ant-col-6 ant-col-offset-2">
-                    <Link to='/'>
+                    <Link to='/emerging-tech/'>
                         <Icon type="home" />Home
                     </Link>
                 </Menu.Item>
