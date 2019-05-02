@@ -6,6 +6,11 @@ import fullAccess from '../../img/fullAccessGoogleDocs.PNG'
 import specifcMember from '../../img/specifictoaccess.PNG'
 import slackPrivate from '../../img/slackprivate.PNG'
 import slackPublic from '../../img/slackPublic.PNG'
+import commitGitHub from '../../img/commitGitHub.png'
+import pullGitHub from '../../img/pullGitHub.png'
+import mergeGitHub from '../../img/mergeGItHub.png'
+import forkGitHub from '../../img/forkGitHub.png'
+import gitCommit from '../../img/gitCommit.png'
 import './index.scss'
 
 class Lesson2 extends React.Component{
@@ -73,7 +78,7 @@ class Lesson2 extends React.Component{
                         
                     </section>
                     <section className="question-one">
-                        < a href = "http://www.ezibuykorea.com/emerging-tech/file/ReactTeam-Slack.zip" > < h5 > Click and download the Json file < /h5></a >
+                        <a href="http://www.ezibuykorea.com/emerging-tech/file/ReactTeam-Slack.zip"><h5>Click and download the Json file</h5></a>
                     </section>
                 </section>
                 <section className="lesson-one-content">
@@ -84,47 +89,22 @@ class Lesson2 extends React.Component{
                         
                         <h3 className="public">Pull</h3>
                         <div>
-                            <img src={slackPublic} alt="communicating in slack public channel" className="screenShots"/>
+                            <img src={pullGitHub} alt="communicating in slack public channel" className="screenShots"/>
                         </div>
                         
                         <h3 className="public">Merge</h3>
                         <div>
-                            <img src={slackPublic} alt="communicating in slack public channel" className="screenShots"/>
+                            <img src={mergeGitHub} alt="communicating in slack public channel" className="screenShots"/>
                         </div>
 
                         <h3 className="public">Commit</h3>
                         <div>
-                            <img src={slackPublic} alt="communicating in slack public channel" className="screenShots"/>
+                            <img src={commitGitHub} alt="communicating in slack public channel" className="screenShots"/>
                         </div>
 
                         <h3 className="public">Fork</h3>
                         <div>
-                            <img src={slackPublic} alt="communicating in slack public channel" className="screenShots"/>
-                        </div>
-                    </section>
-                </section>
-                <section className="lesson-one-content">
-                    <section className="question-one">
-                        <h5><i>Git</i></h5>
-                        
-                        <h3 className="public">Pull</h3>
-                        <div>
-                            <img src={slackPublic} alt="communicating in slack public channel" className="screenShots"/>
-                        </div>
-                        
-                        <h3 className="public">Merge</h3>
-                        <div>
-                            <img src={slackPublic} alt="communicating in slack public channel" className="screenShots"/>
-                        </div>
-
-                        <h3 className="public">Commit</h3>
-                        <div>
-                            <img src={slackPublic} alt="communicating in slack public channel" className="screenShots"/>
-                        </div>
-
-                        <h3 className="public">Fork</h3>
-                        <div>
-                            <img src={slackPublic} alt="communicating in slack public channel" className="screenShots"/>
+                            <img src={forkGitHub} alt="communicating in slack public channel" className="screenShots"/>
                         </div>
                     </section>
                 </section>
