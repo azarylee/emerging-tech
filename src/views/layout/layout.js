@@ -26,7 +26,7 @@ class Layout extends React.Component {
         <div className="wrap">
             <Menu
                 onClick={this.handleClick}
-                selectedKeys={[this.state.current]}
+                selectedKeys={[current]}
                 mode="horizontal"
             >
                 <Menu.Item key="yijun" className="ant-col-10 website-name">
@@ -41,7 +41,12 @@ class Layout extends React.Component {
                     <Menu.Item key="1">
                         <Link to='/assignment/lesson1'>Lesson 1</Link>
                     </Menu.Item>
-                    <Menu.Item key="lesson:2">Lesson 2</Menu.Item>
+                    <Menu.Item key="2">
+                        <Link to='/assignment/lesson2'>Lesson 2</Link>   
+                    </Menu.Item>
+                    <Menu.Item key="3">
+                        <Link to='/assignment/lesson3'>Lesson 3</Link>   
+                    </Menu.Item>
                 </SubMenu>
             </Menu>
             <Content />

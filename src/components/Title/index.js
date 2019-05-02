@@ -10,6 +10,14 @@ class Title extends React.Component{
                     lesson: 'Lesson 1',
                     lessonName: 'Lesson 1 - Web Programming Concepts',
                 },
+                {
+                    lesson: 'Lesson 2',
+                    lessonName: 'Lesson 2 - Principles Of The Internet',
+                },
+                {
+                    lesson: 'Lesson 3',
+                    lessonName: 'Lesson 3 - Google Docs / Slack / GitHub / Git',
+                },
             ],
             num: this.props.lesson-1,
         }

@@ -1,0 +1,22 @@
+.lesson-one {
+    display: flex;
+    flex-direction: column;
+
+    .lesson-one-content {
+        margin: 2rem 15rem;
+
+        .assignment-title {
+            text-align: start;
+            color: #003366;
+            font-weight: 400;
+        }
+    }
+
+
+    .question-one {
+        display: inline;
+        text-align: start;
+        justify-content: space-around;
+        margin: 0 15rem;
+    }
+}
