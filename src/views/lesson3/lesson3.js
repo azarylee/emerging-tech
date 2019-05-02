@@ -85,7 +85,7 @@ class Lesson2 extends React.Component{
                     <section className="question-one">
                         <h5><i>GitHub</i></h5>
                         <h5>URL of personal web page: https://azarylee.github.io</h5>
-                        <h5>URL of Hello World page: https://github.com/xxx/hello-world/</h5>
+                        <h5>URL of Hello World page: https://github.com/azarylee/hello-world/</h5>
                         
                         <h3 className="public">Pull</h3>
                         <div>
