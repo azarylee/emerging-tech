@@ -73,7 +73,7 @@ class Lesson2 extends React.Component{
                         
                     </section>
                     <section className="question-one">
-                        <a href="../../file/ReactTeam-Slack.zip"><h5>Click and download the Json file</h5></a>
+                        < a href = "http://www.ezibuykorea.com/emerging-tech/file/ReactTeam-Slack.zip" > < h5 > Click and download the Json file < /h5></a >
                     </section>
                 </section>
                 <section className="lesson-one-content">

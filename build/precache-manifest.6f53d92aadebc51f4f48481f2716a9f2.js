@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "1c824526b2e76dee2f32",
+    "revision": "ee006432bfa4a5257df0",
     "url": "/static/css/main.1bef508a.chunk.css"
   },
   {
-    "revision": "1c824526b2e76dee2f32",
-    "url": "/static/js/main.1c824526.chunk.js"
+    "revision": "ee006432bfa4a5257df0",
+    "url": "/static/js/main.ee006432.chunk.js"
   },
   {
     "revision": "fdfcfda2d9b1bf31db52",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/static/media/slackprivate.676cd7dc.PNG"
   },
   {
-    "revision": "3a3cc978e81c6cafa723bcfa352c1289",
+    "revision": "f586e82cb1b9d408e003ff9bbea4fc69",
     "url": "/index.html"
   }
 ];
