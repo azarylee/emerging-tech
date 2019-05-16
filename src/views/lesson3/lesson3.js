@@ -10,7 +10,6 @@ import commitGitHub from '../../img/commitGitHub.png'
 import pullGitHub from '../../img/pullGitHub.png'
 import mergeGitHub from '../../img/mergeGItHub.png'
 import forkGitHub from '../../img/forkGitHub.png'
-import gitCommit from '../../img/gitCommit.png'
 import './index.scss'
 
 class Lesson2 extends React.Component{

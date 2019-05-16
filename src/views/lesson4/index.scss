@@ -1,0 +1,12 @@
+.screenShots{
+    width: 60%;
+    &:hover{
+        position: relative;
+        left: 20%;
+        transform: scale(2)
+    }
+}
+
+.question-title {
+    margin-top: 3rem;
+}

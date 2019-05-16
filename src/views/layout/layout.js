@@ -47,6 +47,9 @@ class Layout extends React.Component {
                     <Menu.Item key="3">
                         <Link to='/assignment/lesson3'>Lesson 3</Link>   
                     </Menu.Item>
+                    <Menu.Item key="4">
+                        <Link to='/assignment/lesson4'>Lesson 4</Link>   
+                    </Menu.Item>
                 </SubMenu>
             </Menu>
             <Content />
