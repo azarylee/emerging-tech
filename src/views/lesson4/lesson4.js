@@ -57,28 +57,28 @@ class Lesson2 extends React.Component{
                 <section className="lesson-one-content">
                     <section className="question-one">
                         <h4><i>Task 4 - Researching Tableau Public</i></h4>
-                        <p><a href="https://public.tableau.com/views/CO2Emission_15580007915060/1?:embed=y&:display_count=yes&publish=yes&:origin=viz_share_link">the published Viz Link </a></p>
+                        <p><a target="_blank" href="https://public.tableau.com/views/CO2Emission_15580007915060/1?:embed=y&:display_count=yes&publish=yes&:origin=viz_share_link">the published Viz Link </a></p>
                     </section>
                 </section>
 
                 <section className="lesson-one-content">
                     <section className="question-one">
                         <h4><i>Task 5 - Connecting Tableau to Google Sheets and Publishing to the web</i></h4>
-                        <p><a href="https://public.tableau.com/profile/yijun.li4858#!/vizhome/googlesheets_15580093703570/1_1?publish=yes">the published Viz can updates data once every 24 hours</a></p>
+                        <p><a target="_blank" href="https://public.tableau.com/profile/yijun.li4858#!/vizhome/googlesheets_15580093703570/1_1?publish=yes">the published Viz can updates data once every 24 hours</a></p>
                     </section>
                 </section>
 
                 <section className="lesson-one-content">
                     <section className="question-one">
                         <h4><i>Task 6 - Connecting Tableau to Web Data Connector</i></h4>
-                        <p><a href="https://public.tableau.com/profile/yijun.li4858#!/vizhome/Earthquake_15580103900850/2_1?publish=yes">the published Viz web data</a></p>
+                        <p><a target="_blank" href="https://public.tableau.com/profile/yijun.li4858#!/vizhome/Earthquake_15580103900850/2_1?publish=yes">the published Viz web data</a></p>
                     </section>
                 </section>
 
                 <section className="lesson-one-content">
                     <section className="question-one">
                         <h4><i>Task 7 - Creating Tableau Charts and Publishing to the web</i></h4>
-                        <p><a href="https://public.tableau.com/profile/yijun.li4858#!/vizhome/chart_15580114210040/5?publish=yes">the published Viz chart</a></p>
+                        <p><a target="_blank" href="https://public.tableau.com/profile/yijun.li4858#!/vizhome/chart_15580114210040/5?publish=yes">the published Viz chart</a></p>
                     </section>
                 </section>
             </div>
