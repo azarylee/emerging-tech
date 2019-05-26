@@ -1,0 +1,51 @@
+.presentation{
+    height: 50rem;
+    background-color: #252027;
+
+    .react_header{
+        padding-top: 7rem;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+
+        .react_logo{
+            animation: App-logo-spin infinite 20s linear;
+            width: 5rem;
+        }
+
+        .react_title {
+            color: #54d8f1;
+            margin-left: 10px;
+            font-weight: 700;
+            font-size: 5rem;
+            text-shadow: 0.2rem 0.3rem 0.2rem rgba(153, 137, 137, 0.514);
+        }
+    }
+
+    .first_part_title{
+        color: #fff;
+        font-family: 'Indie Flower',cursive;
+        // font-size: 1rem;
+        text-shadow: 0.5rem 0.3rem 08rem #54d8f1;
+        cursor: pointer;
+        &:hover{
+            text-decoration: underline;
+        }
+    }
+
+    .reason{
+        color:#fff;
+        text-shadow: 0.5rem 0.3rem 08rem #54d8f1;
+    }
+
+    @keyframes App-logo-spin {
+        from {
+            transform: rotate(0deg);
+        }
+
+        to {
+            transform: rotate(360deg);
+        }
+    }
+}

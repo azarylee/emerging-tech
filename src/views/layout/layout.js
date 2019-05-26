@@ -29,12 +29,15 @@ class Layout extends React.Component {
                 selectedKeys={[current]}
                 mode="horizontal"
             >
-                <Menu.Item key="yijun" className="ant-col-10 website-name">
-                    YIJUN's HOME
-                </Menu.Item>
-                <Menu.Item key="home" className="ant-col-6 ant-col-offset-2">
+                < Menu.Item key = "home"
+                className = "ant-col-6 ant-col-offset-2 website-name" >
                     <Link to='/emerging-tech/'>
-                        <Icon type="home" />Home
+                        <Icon type="home" />Yijun's Home
+                    </Link>
+                </Menu.Item>
+                <Menu.Item key="yijun" className="ant-col-10">
+                    <Link to='/emerging-tech/presentation'>
+                        <Icon type="bulb" />emerging-tech
                     </Link>
                 </Menu.Item>
                 <SubMenu title={<span className="submenu-title-wrapper ant-col-6"><Icon type="project" />Assignment</span>}>
