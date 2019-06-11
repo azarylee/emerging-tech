@@ -22,18 +22,46 @@
             text-shadow: 0.2rem 0.3rem 0.2rem rgba(153, 137, 137, 0.514);
         }
     }
-
+    .first_part{
+        padding-bottom: 20rem;
+    }
     .first_part_title{
         color: #fff;
         font-family: 'Indie Flower',cursive;
-        // font-size: 1rem;
         text-shadow: 0.5rem 0.3rem 08rem #54d8f1;
+        padding-bottom: 3rem;
         cursor: pointer;
         &:hover{
             text-decoration: underline;
         }
     }
+    .code_img{
+        width: 60%;
+        padding-bottom: 30rem;
+    }
+    .sass_header {
+        background: white;
 
+        .sass_logo{
+            width: 30%;
+        }
+        .first_part_title_sass{
+            color: #000;
+            font-family: 'Indie Flower',
+            cursive;
+            text-shadow: 0.5rem 0.3rem 08rem #54d8f1;
+            
+            cursor: pointer;
+
+            &:hover {
+                text-decoration: underline;
+            }
+        }
+        .reason_sass{
+            color: #000;
+            text-shadow: 0.5rem 0.3rem 08rem #54d8f1;
+        }
+    }
     .reason{
         color:#fff;
         text-shadow: 0.5rem 0.3rem 08rem #54d8f1;

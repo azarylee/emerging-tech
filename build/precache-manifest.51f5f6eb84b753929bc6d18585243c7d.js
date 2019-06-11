@@ -1,23 +1,31 @@
 self.__precacheManifest = [
   {
-    "revision": "85e7a9a07495283988ed",
-    "url": "/static/css/main.0f55147c.chunk.css"
+    "revision": "b8d8bd7586ad4876dcf1",
+    "url": "/static/css/main.a12cc651.chunk.css"
   },
   {
-    "revision": "85e7a9a07495283988ed",
-    "url": "/static/js/main.85e7a9a0.chunk.js"
+    "revision": "b8d8bd7586ad4876dcf1",
+    "url": "/static/js/main.b8d8bd75.chunk.js"
   },
   {
     "revision": "fdfcfda2d9b1bf31db52",
     "url": "/static/js/runtime~main.fdfcfda2.js"
   },
   {
-    "revision": "e93ec54afa16b7fcfd9f",
+    "revision": "de5ab4131eb4ba8fb72b",
     "url": "/static/css/2.fc7b8d58.chunk.css"
   },
   {
-    "revision": "e93ec54afa16b7fcfd9f",
-    "url": "/static/js/2.e93ec54a.chunk.js"
+    "revision": "de5ab4131eb4ba8fb72b",
+    "url": "/static/js/2.de5ab413.chunk.js"
+  },
+  {
+    "revision": "c92b85a5b907c70211f4ec25e29a8c4a",
+    "url": "/static/media/favicon.c92b85a5.ico"
+  },
+  {
+    "revision": "b8a68eb52e5efd22e4e590b42ed7da55",
+    "url": "/static/media/sass-logo-bg.b8a68eb5.jpg"
   },
   {
     "revision": "42fe2fcc2275e34584d5c18ee1e1b856",
@@ -64,7 +72,7 @@ self.__precacheManifest = [
     "url": "/static/media/tableau profile.2976417c.png"
   },
   {
-    "revision": "f0e7bd38a097ce38641a7425262eae8b",
+    "revision": "3b9f560a960a562202a990d8e34fbf56",
     "url": "/index.html"
   }
 ];
